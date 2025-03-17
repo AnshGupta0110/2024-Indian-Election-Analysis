@@ -1,7 +1,7 @@
 
 # 2024 Indian Election Analysis
-# Author: Ansh Gupta
-# Date: December 2024
+## Author: Ansh Gupta
+## Date: December 2024
 ## Introduction
 This research report provides an analysis of the 2024 Indian Election Results, focusing on party performance, voting trends, and margin of victory. The analysis aims to identify key insights into the political landscape, highlighting the dominance of leading parties and voter behavior.
 
